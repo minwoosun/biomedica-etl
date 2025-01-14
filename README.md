@@ -177,7 +177,7 @@ Once all the media file files including the full article text (nXML file) and im
 
 ```
 
-Here is an example of how to go from a file list (batched from step 2) to generating json files containing data for the articles contained in the file list. `--filelist_batch_dir` is the directory that contains all the batched file lists and to process batch `--batch_idx`. All the json files will be outputted to `data/json/`. We recommed parallelizing this process with as much compute resource available, especially as we do not need to make any API calls with rate limits at this step. We run `scripts/04_build_json.py` in parallel by the running the following shell script. Note that we set the batch size for json files to be max 200 by default. This is because we can query up to 200 articles at a time for Entrez in the next step.
+Here is an example of how to go from a file list (batched from step 2) to generating json files containing data for the articles contained in the file list. `--filelist_batch_dir` is the directory that contains all the batched file lists and to process batch `--batch_idx`. All the json files will be outputted to `data/json/`. We recommend parallelizing this process with as much compute resource available, especially as we do not need to make any API calls with rate limits at this step. We run `scripts/04_build_json.py` in parallel by the running the following shell script. Note that we set the batch size for json files to be max 200 by default. This is because we can query up to 200 articles at a time for Entrez in the next step.
 
 Make sure to change the license type in the shell script! 
 
