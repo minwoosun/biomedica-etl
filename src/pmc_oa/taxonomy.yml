@@ -1,0 +1,119 @@
+Clinical_Imaging:
+  Magnetic_Resonance:
+    - Magnetic_Resonance
+    - Computerized_Tomography
+    - X_Ray_Radiography
+    - Fluoroscopy
+    - Positron_Emission_Tomography
+    - Ultrasound
+
+  Hybrid_and_Combined_Image_Modalities:
+    - PET_CT
+
+  Functional_Studies:
+    - High_Resolution_Esophageal_Manometry
+    - Esophageal_pH_Study
+    - Urodynamic_Testing
+    - Electrocardiography_ECG
+    - Electroencephalography_EEG
+    - Electromyography_EMG
+    - Central_Venous_Pressure_Monitoring
+    - Swan_Ganz_Pulmonary_Artery_Pressure_Monitoring
+    - Arterial_Line_Pressure_Monitoring
+
+  Minimally_Invasive_Procedural_Imaging:
+    - Arthroscopy
+    - Bronchoscopy
+    - Colonoscopy
+    - Cystoscopy
+    - Endoscopy
+    - Gastroscopy
+    - Hysteroscopy
+    - Laparoscopy
+    - Laryngoscopy
+    - Mediastinoscopy
+    - Otoscopy
+    - Rhinoscopy
+    - Thoracoscopy
+    - Ureteroscopy
+    - Vaginoscopy
+    - Optical_Coherence_Tomography
+
+  Clinical_Patient_Images:
+    - Dermatoscopy
+    - Mole_Mapping
+    - Erythema_Progression
+    - Post_Surgery_Patient_Results
+    - Intraoperative_Specimen
+
+Microscopy:
+  Light_Microscopy:
+    - Phase_Contrast_Microscopy
+    - Dark_Field_Microscopy
+    - Polarized_Light_Microscopy
+    - Differential_Interference_Contrast_Microscopy
+  Electron_Microscopy:
+    - Transmission_Electron_Microscopy
+    - Scanning_Electron_Microscopy
+    - Cryo_Electron_Microscopy
+  Fluorescence_Microscopy:
+    - Confocal_Microscopy
+    - Epifluorescence_Microscopy
+    - Total_Internal_Reflection_Fluorescence_Microscopy
+    - Two_Photon_Microscopy
+    - Three_Photon_Microscopy
+
+Blotting_Gel_Radio_Immuno_Assays:
+  - Gel_Electrophoresis
+  - Radioimmunoassay
+  - Immunoblotting
+  - Immunoprecipitation
+  - Immunofluorescence
+  - Immunohistochemistry
+  - Immunocytochemistry
+
+Illustrative_Diagrams:
+  - Signaling_Pathway
+  - Metabolic_Pathway
+  - Flowcharts
+  - Cohort_Selection_Flow_Chart
+  - System_Overviews
+
+Tables: []
+
+Plots_and_Charts:
+  - Signal_Plots
+  - Survival_Curve
+  - ROC_Curve
+  - Comparison_Plot
+  - Scatter_Plot
+  - Venn_Diagram
+  - 3D_Plot
+  - Bar_Plot
+  - Pie_Chart
+  - Plasmid_Map
+  - Flow_Cytometry
+
+PCR:
+  - qPCR
+  - rtPCR
+
+Hand_Drawn_and_Screen_Based_Visuals:
+  - Hand_Drawn_Sketches
+  - Screenshots
+
+Graph_and_Network: []
+
+Scientific_Formulae_and_Equations: []
+
+Chemical_Structures:
+  - 3D_Chemical_Structures
+  - 2D_Chemical_Structures
+  - 2D_Chemical_Reaction
+
+Maps: []
+
+Tools_and_Materials:
+  - Tools
+  - Lab_Equipment
+  - Materials

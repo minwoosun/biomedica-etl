@@ -1,0 +1,132 @@
+{
+    "Ambiguous": [
+        "ambiguous"
+    ],
+    "Chemical Structures": [
+        "2D chemical reaction",
+        "3D chemical reaction",
+        "2D chemical structure",
+        "3D protein structure",
+        "3D chemical structure"
+    ],
+    "Clinical Imaging": [
+        "Imaging Techniques",
+        "Functional Study",
+        "Minimally Invasive Procedural Imaging",
+        "Clinical Patient Image",
+        "Organ"
+    ],
+    "Microscopy": [
+        "light microscopy",
+        "electron microscopy",
+        "fluorescence microscopy"
+    ],
+    "Laboratory Specimens and Cultures": [
+        "bacterial culture",
+        "laboratory specimen"
+    ],
+    "Immuno Assays": [
+        "assay",
+        "gel electrophoresis",
+        "immunoblotting",
+        "immunocytochemistry",
+        "immunofluorescence",
+        "immunohistochemistry",
+        "immunoprecipitation",
+        "radioimmunoassay",
+        "karyotype"
+    ],
+    "Illustrative Diagrams": [
+        "cohort selection flowchart",
+        "diagram",
+        "drawingflowchart",
+        "flow diagram",
+        "illustration",
+        "illustrative diagram",
+        "metabolic pathway",
+        "scientific illustration",
+        "signaling pathway"
+    ],
+    "Tables": [
+        "table",
+        "checklist table",
+        "list"
+    ],
+    "Plot and Charts": [
+        "2D mesh",
+        "3D plot",
+        "bar plot",
+        "box plot",
+        "circos plot",
+        "circular plot",
+        "cohort selection flow chart",
+        "comparison plot",
+        "density plot",
+        "differential gene expression matrix",
+        "dot plot",
+        "funnel plot",
+        "flowchart",
+        "flowcytometry",
+        "forest plot",
+        "heatmap plot",
+        "histogram",
+        "line plot",
+        "matrix plor",
+        "manuscriptmosaic plot",
+        "nucleotide plot",
+        "phylogenetic tree",
+        "pie chart",
+        "plasmid map",
+        "process chart",
+        "pyramid",
+        "radial plot",
+        "roc curve",
+        "scatter plot",
+        "signal plot",
+        "survival curve",
+        "tree",
+        "venn diagram",
+        "violin plot",
+        "word cloud",
+        "dot plot"
+    ],
+    "PCR": [
+        "qpcr",
+        "rtpcr",
+        "qPCR",
+        "RT PCR"
+    ],
+    "Natural Images": [
+        "aerial photography",
+        "face",
+        "natural image",
+        "insect",
+        "mouse",
+        "human",
+        "human head",
+        "humans and devices",
+        "insects"
+    ],
+    "Screen Based Visuals": [
+        "screenshot",
+        "user interface"
+    ],
+    "Graphs and Networks": [
+        "graph",
+        "neural network",
+        "network"
+    ],
+    "Scientific Formulae and Equations": [
+        "equation",
+        "algorithm"
+    ],
+    "Maps": [
+        "map"
+    ],
+    "Tools and Materials": [
+        "electronic circuit",
+        "lab equipment",
+        "medical equipment",
+        "tool"
+    ]
+}

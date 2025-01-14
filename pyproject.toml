@@ -1,0 +1,30 @@
+[tool.poetry]
+name = "pmc_oa"
+version = "0.1.0"
+description = "Download PMC Open Access Subset"
+authors = ["Min Woo Sun"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+pandas = "2.2.2"
+requests = "2.31.0"
+lxml = "4.9.3"
+ipykernel = "^6.29.5"
+matplotlib = "^3.9.2"
+biopython = "^1.84"
+xmltodict = "^0.13.0"
+webdataset = "^0.2.100"
+vllm = "^0.6.2"
+opencv-python = "^4.10.0.84"
+faiss-cpu = "^1.9.0"
+fuzzywuzzy = "^0.18.0"
+wordcloud = "^1.9.3"
+nltk = "^3.9.1"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

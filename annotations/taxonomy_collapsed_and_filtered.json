@@ -1,0 +1,153 @@
+{
+    "Ambiguous": [
+        "ambiguous"
+    ],
+    "Chemical Structures": [
+        "2D chemical reaction",
+        "3D chemical reaction",
+        "2D chemical structure",
+        "3D protein structure",
+        "3D chemical structure"
+    ],
+    "Clinical Imaging": [
+        "x-ray radiography",
+        "optical coherence tomography",
+        "endoscopy",
+        "intraoral imaging",
+        "angiography",
+        "procedural image",
+        "skull",
+        "patient photo",
+        "functional magnetic resonance",
+        "magnetic resonance",
+        "eye",
+        "mammography",
+        "electrocardiography",
+        "clinical imaging",
+        "skin lesion",
+        "ultrasound",
+        "specimen",
+        "computerized tomography",
+        "laryngoscopy",
+        "teeth",
+        "intraoperative image",
+        "surgical procedure",
+        "brain"
+    ],
+    "Graphs and Networks": [
+        "graph",
+        "neural network",
+        "network"
+    ],
+    "Illustrative Diagrams": [
+        "sankey diagram",
+        "metabolic pathway",
+        "scientific illustration",
+        "diagram",
+        "signaling pathway",
+        "illustrative diagram",
+        "flow diagram",
+        "cohort selection flowchart",
+        "illustration",
+        "drawing",
+        "system diagram",
+        "flowchart"
+    ],
+    "Immuno Assays": [
+        "immunocytochemistry",
+        "karyotype",
+        "gel electrophoresis",
+        "immunoassay",
+        "immunoblot",
+        "assay",
+        "immunohistochemistry"
+    ],
+    "Laboratory Specimens and Cultures": [
+        "reagents",
+        "laboratory specimen",
+        "bacterial culture"
+    ],
+    "Maps": [
+        "map"
+    ],
+    "Microscopy": [
+        "scanning electron microscopy",
+        "electron microscopy",
+        "flowcytometry",
+        "transmission electron microscopy",
+        "light microscopy",
+        "fluorescence microscopy",
+        "phase contrast microscopy",
+        "confocal microscopy",
+        "epifluorescence microscopy",
+        "microscopy"
+    ],
+    "Natural Images": [
+        "face",
+        "aerial photography",
+        "natural image",
+        "human head",
+        "humans and devices",
+        "human",
+        "insects",
+        "nature"
+    ],
+    "PCR": [
+        "qPCR",
+        "RT PCR"
+    ],
+    "Plots and Charts": [
+        "violin plot",
+        "bar plot",
+        "roc curve",
+        "sequence plot",
+        "radial plot",
+        "plot",
+        "matrix plot",
+        "phylogenetic tree",
+        "process chart",
+        "dot plot",
+        "pyramid chart",
+        "forest plot",
+        "box plot",
+        "survival curve",
+        "circos plot",
+        "venn diagram",
+        "heatmap plot",
+        "circular plot",
+        "scatter plot",
+        "word cloud",
+        "list",
+        "tree",
+        "density plot",
+        "funnel plot",
+        "plot and chart",
+        "2D mesh",
+        "3D plot",
+        "radial diagram",
+        "pie chart",
+        "manuscript",
+        "histogram",
+        "differential gene expression matrix",
+        "line plot",
+        "signal plot"
+    ],
+    "Screen Based Visuals": [
+        "screenshot",
+        "user interface"
+    ],
+    "Scientific Formulae and Equations": [
+        "algorithm"
+    ],
+    "Tables": [
+        "table",
+        "checklist table"
+    ],
+    "Tools and Materials": [
+        "medical equipment",
+        "microscope",
+        "electronic circuit",
+        "lab equipment",
+        "tool"
+    ]
+}
