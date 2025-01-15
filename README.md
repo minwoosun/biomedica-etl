@@ -273,7 +273,7 @@ Innovation grant (#KIG 102) to SYL, Hoffman-Yee Research Grant to SYL, the Arc I
 
 We  thank Daniel van Strien, Matthew Carrigan, and Omar Sanseviero from Hugging Face for their invaluable assistance with data upload and design planning on the Hugging Face platform.
 
-We thank [Jorgue Velazques](https://www.behance.net/tlalcalli) for the logo design.
+We thank [Jorge Velasquez](https://www.behance.net/tlalcalli) for the logo design.
 
 ## Citation
 
