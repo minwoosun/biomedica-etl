@@ -288,3 +288,7 @@ We thank [Jorge Velasquez](https://www.behance.net/tlalcalli) for the logo desig
       url={https://arxiv.org/abs/2501.07171}, 
 }
 ```
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=minwoosun/biomedica-etl&type=Date)](https://star-history.com/#minwoosun/biomedica-etl&Date)
