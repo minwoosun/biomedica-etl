@@ -18,7 +18,7 @@
 
 
 Tutorial:
-[![Dataset Colab Tutorial](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10h2onUZXIRoYyD2FpFqm2FAoUyF2QQka?usp=sharing)
+[![Dataset Colab Tutorial](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1856175XzplxJaPtTwnzwXdawJNLo6jP9?usp=sharing)
 
 Welcome to the official Biomedica Repository. If you want to start training your biomedical CLIP-style model using 24M scientific articles [click here](https://github.com/Ale9806/open_clip_with_biomedica). If you wish to use our filtering pipeline to get subsets from our labeled dataset on demand [click here](). If you would like to reproduce our dataset read this README file.
 
